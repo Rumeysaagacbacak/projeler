@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NxTt1fnjxaYIePkYEJYSS7jgTkO+HobmsYgCxjvptpwTzFAkjbYPwLIEzeR/gOnWPEHy85YtO4hSiIgd92CHDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rumey\\OneDrive\\Masaüstü\\projeler\\operatorler\\operatorler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rumey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
