@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cMn+JmYBa42YoKLI+10DvDHXjcXY7+nofU0zlC03GWnG2p326iPOUc2cCij1AZV2tHqrBrWdfQlysVX+Zare6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rumey\\OneDrive\\Masaüstü\\projeler\\hata-donusumleri\\hata-donusumleri.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rumey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
