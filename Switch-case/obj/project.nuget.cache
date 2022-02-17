@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aLxRK6aq4nSOsQWdWVPTn5TzRC9ElGMS2XYDB2K0fjt6jYuchrBICMED+9O8NmGdBqiLRYqqOa5mDiKmyc/KPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rumey\\OneDrive\\Masaüstü\\projeler\\Switch-case\\Switch-case.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rumey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
