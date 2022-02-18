@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k1LjhRfHEAWPA9vbW9e7Ik8j2TQLyfdTkI2SlUBjMqhG7VYnEXXfqjArTqEFUI6XU0ZWYoxCKtrqoXayW0tr3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rumey\\OneDrive\\Masaüstü\\projeler\\donguler-while-foreach\\donguler-while-foreach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rumey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
