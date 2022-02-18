@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cNqJoMt5knCtCOWYV+JLd7VDVdrxzbrp6CTJinwyFa5YOKdSE6a+nR1zbzcgZF4nI3iHqRlUJmLTiWWVgLWElg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rumey\\OneDrive\\Masaüstü\\projeler\\dongüler-for-loop\\dongüler-for-loop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rumey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
