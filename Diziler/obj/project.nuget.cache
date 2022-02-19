@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8KzuDRm1wUpZjgm9letf1d8n3AKUvpZxdGR3zboOTAsO/UEdvJ4Ob3xu3jXK7Q7PhrJrRoFWGu5YkMuvLAttSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rumey\\OneDrive\\Masaüstü\\projeler\\Diziler\\Diziler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rumey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
