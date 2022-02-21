@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wWKQyoQsCHtAB0PW1sJ2l165oEbugjCGxvMD71+zNGL1WEt0XAGqTXutVBdxTMa3O4wz1MM9k8KureMKEPXjGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rumey\\OneDrive\\Masaüstü\\projeler\\dızıler-arraylar-sınıfı-metodu\\dızıler-arraylar-sınıfı-metodu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rumey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
